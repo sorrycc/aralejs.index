@@ -1,0 +1,75 @@
+[submodule "libs/dialog"]
+	path = libs/dialog
+	url = git@github.com:aralejs/dialog.git
+[submodule "libs/class"]
+	path = libs/class
+	url = git@github.com:aralejs/class.git
+[submodule "libs/messenger"]
+	path = libs/messenger
+	url = git@github.com:aralejs/messenger.git
+[submodule "libs/easing"]
+	path = libs/easing
+	url = git@github.com:aralejs/easing.git
+[submodule "libs/events"]
+	path = libs/events
+	url = git@github.com:aralejs/events.git
+[submodule "libs/validator"]
+	path = libs/validator
+	url = git@github.com:aralejs/validator.git
+[submodule "libs/autocomplete"]
+	path = libs/autocomplete
+	url = git@github.com:aralejs/autocomplete.git
+[submodule "libs/tip"]
+	path = libs/tip
+	url = git@github.com:aralejs/tip.git
+[submodule "libs/select"]
+	path = libs/select
+	url = git@github.com:aralejs/select.git
+[submodule "libs/upload"]
+	path = libs/upload
+	url = git@github.com:aralejs/upload.git
+[submodule "libs/name-storage"]
+	path = libs/name-storage
+	url = git@github.com:aralejs/name-storage.git
+[submodule "libs/widget"]
+	path = libs/widget
+	url = git@github.com:aralejs/widget.git
+[submodule "libs/base"]
+	path = libs/base
+	url = git@github.com:aralejs/base.git
+[submodule "libs/popup"]
+	path = libs/popup
+	url = git@github.com:aralejs/popup.git
+[submodule "libs/overlay"]
+	path = libs/overlay
+	url = git@github.com:aralejs/overlay.git
+[submodule "libs/calendar"]
+	path = libs/calendar
+	url = git@github.com:aralejs/calendar.git
+[submodule "libs/dnd"]
+	path = libs/dnd
+	url = git@github.com:aralejs/dnd.git
+[submodule "libs/sticky"]
+	path = libs/sticky
+	url = git@github.com:aralejs/sticky.git
+[submodule "libs/qrcode"]
+	path = libs/qrcode
+	url = git@github.com:aralejs/qrcode.git
+[submodule "libs/templatable"]
+	path = libs/templatable
+	url = git@github.com:aralejs/templatable.git
+[submodule "libs/placeholder"]
+	path = libs/placeholder
+	url = git@github.com:aralejs/placeholder.git
+[submodule "libs/detector"]
+	path = libs/detector
+	url = git@github.com:aralejs/detector.git
+[submodule "libs/iframe-shim"]
+	path = libs/iframe-shim
+	url = git@github.com:aralejs/iframe-shim.git
+[submodule "libs/cookie"]
+	path = libs/cookie
+	url = git@github.com:aralejs/cookie.git
+[submodule "libs/position"]
+	path = libs/position
+	url = git@github.com:aralejs/position.git
